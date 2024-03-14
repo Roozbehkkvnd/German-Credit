@@ -1,0 +1,23 @@
+Requirements for the GermanCredit Project
+To get started with the GermanCredit analysis project, you'll need to ensure your computer is set up with some specific software and libraries. This setup is crucial for running the analysis smoothly and without hitches.
+
+Core Programming Language:
+
+Python: The backbone of our project, Python is a versatile and powerful programming language that we use for all our data manipulation, analysis, and modeling. Make sure you have Python 3.8 or later installed to ensure compatibility with all the libraries we'll be using.
+Libraries for Data Analysis and Modeling:
+
+Pandas: This library is our Swiss Army knife for data manipulation and analysis. It provides flexible data structures designed to make working with structured data both easy and intuitive.
+NumPy: Essential for handling arrays and matrices, NumPy works hand-in-hand with Pandas to perform numerical operations.
+Scikit-learn: The go-to library for machine learning in Python. We use it for everything from splitting our data into training and test sets to building and evaluating our logistic regression model.
+Matplotlib and Seaborn: These two libraries are our tools for data visualization. They help us create plots and charts that make our findings accessible and understandable.
+Database and Notebook:
+
+SQLAlchemy: If you’re dealing with SQL databases, SQLAlchemy serves as the database toolkit and ORM for Python, making database operations seamless.
+Jupyter: For running our analysis in an interactive environment, Jupyter Notebooks allow us to combine code execution with notes and visualization, making our workflow clear and reproducible.
+Database Connector (if applicable):
+
+Depending on the database system you’re working with (MySQL, PostgreSQL, etc.), you might need a specific connector (like PyMySQL for MySQL databases) to interact with your database from Python.
+Installation:
+You can install Python from the official website, and the libraries mentioned can be easily installed using pip, Python’s package installer. For those new to pip or Python, plenty of online resources and tutorials can guide you through the setup process.
+
+With these tools and libraries, you’re well-equipped to tackle the GermanCredit project. Each plays a critical role in the workflow, from data preparation and analysis to modeling and insights visualization.
