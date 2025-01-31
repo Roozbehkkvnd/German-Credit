@@ -96,8 +96,3 @@ Contributions are welcome! If you'd like to improve the project:
 2. Create a feature branch (`git checkout -b feature-name`)  
 3. Commit changes (`git commit -m "Added feature"`)  
 4. Open a Pull Request  
-
----
-
-This README provides clear guidance on **installation, usage, dataset details, and project structure**. Feel free to modify it based on any additional requirements! 🚀
-
